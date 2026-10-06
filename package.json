@@ -1,0 +1,29 @@
+{
+  "name": "smart-warehouse",
+  "version": "1.0.0",
+  "description": "Smart Warehouse Operations and Order Fulfillment System",
+  "main": "app.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "warehouse",
+    "inventory",
+    "order-fulfillment",
+    "react"
+  ],
+  "author": "Smart Warehouse Team",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.18.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.4",
+    "vite": "^7.1.3"
+  }
+}
